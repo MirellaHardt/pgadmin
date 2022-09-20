@@ -1,0 +1,7 @@
+echo "# pgadmin" >> README.md 
+ init 
+ add README.md 
+ commit -m "first commit" 
+ branch -M main 
+ remote add origin https://github.com/MirellaHardt/pgadmin.git
+push - u origem principal
